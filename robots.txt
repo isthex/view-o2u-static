@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://view.o2u.kr/sitemap.xml
